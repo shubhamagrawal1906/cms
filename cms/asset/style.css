@@ -1,0 +1,53 @@
+body{
+	padding-top:120px;
+	font-family:Arial;
+	background-color:maroon;
+ }
+ div{
+	color:white;
+	margin:25px;
+	padding:25px;
+	background-color:black;
+	border:10px;
+	border-style:solid;
+	border-color:#545454;
+ }
+ .container{
+	width:500px;
+	margin:0 auto;
+ }
+ a:link,a:visited{
+	color:gray;
+	text-decoration:none;
+	border-bottom: 1px dotted slateGray;
+	
+ }
+ a:hover{
+	color:white;
+ }
+ small{
+	color:#999;
+	font-style:italic;
+ }
+ p{
+	line-height:25px;
+	font-size:90%;
+ }
+ ol  li
+ input[type=text],input[type=passwod],textarea{
+	-webkit-appearance:none;
+	padding:5px;
+	border :1px solid #ccc;
+ }
+ input[type=text]:focus,input[type=passwod]:focus,textarea:focus{
+	outline:none;
+ }
+#span{
+	font-weight:bold;
+	color:white;
+	background-color:#004600;
+	border:sloid;
+	border-width:3px;
+	border-color:white;
+
+ }
